@@ -1,1 +1,1 @@
-# Capstone-Project-2
+# Retail Promotion Effectiveness Analysis
