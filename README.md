@@ -5,6 +5,7 @@ Conducted end-to-end analysis from data cleaning and exploration to hypothesis t
 **For detailed explanation**, see: 
 - Supermarket Customers (Herry).ipynb
 - Retail Promotion Effectiveness Analysis.pdf
+- Tableau
 
 ---
 
