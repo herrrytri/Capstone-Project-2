@@ -2,7 +2,9 @@
 # Retail Promotion Effectiveness Analysis
 Conducted end-to-end analysis from data cleaning and exploration to hypothesis testing to identify successful promotional patterns. Provided strategic insights to improve campaign responsiveness and customer engagement.
 
-**For detailed explanation**, see: Supermarket Customers (Herry).ipynb or Retail Promotion Effectiveness Analysis.pdf
+**For detailed explanation**, see: 
+- Supermarket Customers (Herry).ipynb
+- Retail Promotion Effectiveness Analysis.pdf
 
 ---
 
