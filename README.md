@@ -1,5 +1,4 @@
-# Retail Promotion Effectiveness Analysis
-#Link Dashboard Visualization: https://public.tableau.com/views/CustomerResponsetoMarketingCampaigns/Dashboard4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 # Retail Promotion Effectiveness Analysis
 Conducted end-to-end analysis from data cleaning and exploration to hypothesis testing to identify successful promotional patterns. Provided strategic insights to improve campaign responsiveness and customer engagement.
 
@@ -30,4 +29,4 @@ Conducted end-to-end analysis from data cleaning and exploration to hypothesis t
 - Python (Pandas, Matplotlib, Numpy, Seaborn)
 - Jupyter Notebook
 - Excel for raw input
-- Tableau for Visualization
+- Tableau for Visualization (https://public.tableau.com/views/CustomerResponsetoMarketingCampaigns/Dashboard4?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
